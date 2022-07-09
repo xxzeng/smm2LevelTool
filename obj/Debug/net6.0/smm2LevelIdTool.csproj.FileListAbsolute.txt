@@ -1,0 +1,15 @@
+C:\Users\xixin\source\repos\smm2LevelIdTool\smm2LevelIdTool\bin\Debug\net6.0\smm2LevelIdTool.exe
+C:\Users\xixin\source\repos\smm2LevelIdTool\smm2LevelIdTool\bin\Debug\net6.0\smm2LevelIdTool.deps.json
+C:\Users\xixin\source\repos\smm2LevelIdTool\smm2LevelIdTool\bin\Debug\net6.0\smm2LevelIdTool.runtimeconfig.json
+C:\Users\xixin\source\repos\smm2LevelIdTool\smm2LevelIdTool\bin\Debug\net6.0\smm2LevelIdTool.dll
+C:\Users\xixin\source\repos\smm2LevelIdTool\smm2LevelIdTool\bin\Debug\net6.0\ref\smm2LevelIdTool.dll
+C:\Users\xixin\source\repos\smm2LevelIdTool\smm2LevelIdTool\bin\Debug\net6.0\smm2LevelIdTool.pdb
+C:\Users\xixin\source\repos\smm2LevelIdTool\smm2LevelIdTool\obj\Debug\net6.0\smm2LevelIdTool.csproj.AssemblyReference.cache
+C:\Users\xixin\source\repos\smm2LevelIdTool\smm2LevelIdTool\obj\Debug\net6.0\smm2LevelIdTool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xixin\source\repos\smm2LevelIdTool\smm2LevelIdTool\obj\Debug\net6.0\smm2LevelIdTool.AssemblyInfoInputs.cache
+C:\Users\xixin\source\repos\smm2LevelIdTool\smm2LevelIdTool\obj\Debug\net6.0\smm2LevelIdTool.AssemblyInfo.cs
+C:\Users\xixin\source\repos\smm2LevelIdTool\smm2LevelIdTool\obj\Debug\net6.0\smm2LevelIdTool.csproj.CoreCompileInputs.cache
+C:\Users\xixin\source\repos\smm2LevelIdTool\smm2LevelIdTool\obj\Debug\net6.0\smm2LevelIdTool.dll
+C:\Users\xixin\source\repos\smm2LevelIdTool\smm2LevelIdTool\obj\Debug\net6.0\ref\smm2LevelIdTool.dll
+C:\Users\xixin\source\repos\smm2LevelIdTool\smm2LevelIdTool\obj\Debug\net6.0\smm2LevelIdTool.pdb
+C:\Users\xixin\source\repos\smm2LevelIdTool\smm2LevelIdTool\obj\Debug\net6.0\smm2LevelIdTool.genruntimeconfig.cache

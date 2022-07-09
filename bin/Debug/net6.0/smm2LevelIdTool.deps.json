@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "smm2LevelIdTool/1.0.0": {
+        "runtime": {
+          "smm2LevelIdTool.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "smm2LevelIdTool/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
